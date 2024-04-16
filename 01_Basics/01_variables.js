@@ -17,3 +17,7 @@ variables in it using [] square bracets. */
 
 //1. Either you put ; semicolon in end or not it doesn't matter.
 //2. Const, let, var these are keyword.
+
+// const is used to declare variables that are meant to remain constant (unchanged) throughout the execution of a program. Once a value is assigned to a const variable, it cannot be reassigned.
+// let is used to declare variables that are block-scoped (limited to the block in which they are defined) and can be reassigned new values.
+// (OLDER DONT USE) var is the older way of declaring variables in JavaScript. It's function-scoped rather than block-scoped, and it can be reassigned and re-declared within its scope.
